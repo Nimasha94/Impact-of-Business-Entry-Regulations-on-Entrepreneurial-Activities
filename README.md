@@ -1,0 +1,2 @@
+# Impact-of-Business-Entry-Regulations-on-Entrepreneurial-Activities
+investigate the impact of business entry regulations in countries on entrepreneurial activities. Specifically, we seek to answer: (1) How do regulatory barriers to business entry shape a country’s readiness for entrepreneurship, and (2) which regulatory components act as the main constraints. This is an Agent-based Simulation approach

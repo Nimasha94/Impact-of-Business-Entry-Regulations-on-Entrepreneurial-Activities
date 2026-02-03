@@ -32,9 +32,9 @@ In order to analyze the data based on their income group, we wanted to identify 
 - Agent-Based Simulation
   
 We developed an agent-based model with agents (entrepreneurs) who are trying to enter different economies. The agents could be either domestic or foreign entrepreneurs. We simulated 10,000 agents with:
-    - Agent attributes: Capital, Skill, Risk-taking, and Persistence.
-    - External Factors: Regulatory quality, digital service availability, and operational time/cost.
-    - Success Logic: A multiplicative probability model determining if an agent succeeds in the economy. And, if they failed, based on their persistance, they will either try to enter another market or exit from the system.
+  - Agent attributes: Capital, Skill, Risk-taking, and Persistence.
+  - External Factors: Regulatory quality, digital service availability, and operational time/cost.
+  - Success Logic: A multiplicative probability model determining if an agent succeeds in the economy. And, if they failed, based on their persistance, they will either try to enter another market or exit from the system.
 
 ## Results
 The exploratory data analysis revealed that most of the countries have moderate or high readiness for business entries (with overall score 60-90) while a fewer number of countries have low readiness (overall score < 60).

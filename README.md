@@ -22,12 +22,15 @@ To classify the countries in the business entry dataset, we used a second datase
 ## Methodology
 
 - Normalizing the Structure of the Datasets
+  
 The Business Entry dataset had a complex, hierarchical header structure that represent the levels; pillars, categories, sub-categories and indicator. To handle this multilevel structure, data was loaded to the data frame by skipping the first three metadata-rows. There were no any rows or columns with missing values.
 
 - Merging the Two Datasets
+  
 In order to analyze the data based on their income group, we wanted to identify the income group that each country in the Business Entry dataset belongs. For this purpose, we merged the second dataset (World Bank Country Classification) with our primary dataset.
 
 - Agent-Based Simulation
+  
 We developed an agent-based model with agents (entrepreneurs) who are trying to enter different economies. The agents could be either domestic or foreign entrepreneurs. We simulated 10,000 agents with:
   - Agent attributes: Capital, Skill, Risk-taking, and Persistence.
   - External Factors: Regulatory quality, digital service availability, and operational time/cost.
@@ -43,8 +46,10 @@ The simulations show that, regardless of the income group, there is an increase 
 ## Conclusion
 
 In conclusion, even though there are three main types of market-entry barriers were identified by the world bank’s B-ready project, this study shows that, mainly two types of barriers cause the variation among the countries’ readiness to new business entries. Therefore, by focusing on improving the;
+
 - Digital public services and transparency of information
 - Efficiency of the process by reducing time and cost
+  
 countries can increase their readiness for new business entries.
 
 ## Limitations
